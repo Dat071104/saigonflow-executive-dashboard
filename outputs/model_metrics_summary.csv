@@ -1,0 +1,7 @@
+Task,Model,Accuracy,Precision,Recall,F1,ROC_AUC
+Customer Churn Risk Model,LogisticRegression,0.5636363636363636,0.13963963963963963,0.3875,0.2052980132450331,0.504095744680851
+Customer Churn Risk Model,GradientBoostingClassifier,0.8472727272727273,0.0,0.0,0.0,0.52
+Customer Churn Risk Model,RandomForestClassifier,0.8545454545454545,0.0,0.0,0.0,0.4651329787234043
+Vehicle Maintenance Priority Model,GradientBoostingClassifier,1.0,1.0,1.0,1.0,1.0
+Vehicle Maintenance Priority Model,RandomForestClassifier,0.9961904761904762,0.9980694980694981,0.9980694980694981,0.9980694980694981,0.9994484280198566
+Vehicle Maintenance Priority Model,LogisticRegression,0.9276190476190476,1.0,0.9266409266409267,0.9619238476953907,0.9889685603971319

@@ -1,0 +1,5 @@
+Perspective,Metrics,Target,MIS Interpretation
+Financial,"Total Revenue: 317,836,500 VND; E-Bike Revenue Share: 69.94%; Top 10 Vehicle Revenue: 4,890,000 VND",Increase cross-modal revenue; reduce dependency on E-Bikes,Links revenue concentration to mode strategy and fleet monetization.
+Customer,"Churn Rate: 14.59%; High Risk Users Count: 5; Rain Trip Drop / Rain Behavior: Rain trips: 2,021; Clear trips: 3,930",Reduce churn from current rate to below 10%,Uses customer behavior and weather sensitivity to guide retention actions.
+Internal Process / Fleet,"Critical Battery Vehicles: 231; At-Risk Vehicles: 2,083; Peak Hour Utilization: 45.93%",98% fleet uptime; reduce critical battery deployment,"Connects operational visibility to uptime, maintenance, and redistribution."
+Learning & Growth / AI,"Churn Model F1: 0.205; Vehicle Risk Model F1: 1.000; AI-generated risk recommendations: 4,300",Deploy predictive alerts and explainable AI monitoring,Turns SSOT data into reusable predictive decision support.

@@ -1,0 +1,113 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ============================================================
+# Jupyter
+# ============================================================
+.ipynb_checkpoints/
+
+# ============================================================
+# Streamlit
+# Keep .streamlit/config.toml
+# Ignore secrets only
+# ============================================================
+.streamlit/secrets.toml
+
+# ============================================================
+# Logs
+# ============================================================
+*.log
+
+# ============================================================
+# OS
+# ============================================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ============================================================
+# Editors
+# ============================================================
+.idea/
+.vscode/
+
+# ============================================================
+# Temporary
+# ============================================================
+tmp/
+temp/
+downloads/
+browser_downloads/
+
+# ============================================================
+# Build artifacts
+# ============================================================
+build/
+dist/
+
+# ============================================================
+# LaTeX auxiliary files
+# Keep source .tex files only if they are outside ignored folders
+# ============================================================
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+*.synctex.gz
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# ============================================================
+# Submission / report package kept local, not for GitHub app repo
+# ============================================================
+submission_package/
+overleaf_project/
+report/
+reports/
+ai_usage/
+screenshots_to_add/
+submission_assets/
+screenshots/
+
+# ============================================================
+# Optional generated documents
+# Ignore final PDFs/docs if you only want code + app
+# ============================================================
+*.pdf
+*.docx
+*.pptx
+
+# ============================================================
+# Optional local notebooks exports
+# ============================================================
+*.html
+# Local/raw/project-only files not needed for GitHub app demo
+SF_*.csv
+SaigonFlow_Phase3_Analytics_Modeling.ipynb
+academic-originality-coach_v3_SKILL.md
+
+# Hide generated PNG evidence from app-only repo
+outputs/*.png
+
+# Submission/report package kept local
+submission_package/

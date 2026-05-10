@@ -1,0 +1,11 @@
+VehicleID,Type,Battery_Level_Pct,Last_Maintenance_Date,Trip_Count,Total_Revenue,Avg_Fare,Avg_Duration,Peak_Trip_Count,Weekend_Trip_Count,Rain_Trip_Count,Heavy_Rain_Trip_Count,Unique_Start_Stations,Unique_End_Stations,Days_Since_Maintenance,Utilization_Segment,Maintenance_Risk_Level
+V1995,Shuttle Bus,71,2025-09-13,14.0,560000.0,40000.0,58.785714285714285,5.0,7.0,0.0,0.0,7.0,6.0,47,High Revenue,Critical
+V2004,Shuttle Bus,24,2025-09-14,14.0,560000.0,40000.0,58.142857142857146,7.0,2.0,4.0,3.0,8.0,7.0,46,High Revenue,Critical
+V1868,Shuttle Bus,41,2025-08-26,12.0,480000.0,40000.0,52.833333333333336,5.0,4.0,1.0,1.0,6.0,7.0,65,High Revenue,Critical
+V2048,Shuttle Bus,41,2025-09-29,12.0,480000.0,40000.0,63.916666666666664,5.0,1.0,3.0,1.0,5.0,7.0,31,High Revenue,Critical
+V1906,Shuttle Bus,13,2025-09-26,12.0,480000.0,40000.0,60.833333333333336,10.0,1.0,1.0,1.0,6.0,6.0,34,High Revenue,Critical
+V1974,Shuttle Bus,45,2025-08-13,12.0,480000.0,40000.0,60.166666666666664,4.0,3.0,2.0,1.0,6.0,5.0,78,High Revenue,Critical
+V1976,Shuttle Bus,35,2025-08-20,12.0,480000.0,40000.0,57.5,6.0,5.0,2.0,1.0,7.0,7.0,71,High Revenue,Critical
+V2072,Shuttle Bus,18,2025-08-25,12.0,480000.0,40000.0,54.083333333333336,7.0,4.0,1.0,1.0,5.0,7.0,66,High Revenue,Critical
+V0776,E-Bike,42,2025-09-14,10.0,450000.0,45000.0,30.0,6.0,4.0,1.0,0.0,5.0,5.0,46,High Revenue,Critical
+V1943,Shuttle Bus,57,2025-08-29,11.0,440000.0,40000.0,64.0909090909091,5.0,1.0,3.0,1.0,5.0,7.0,62,High Revenue,Critical
